@@ -1,0 +1,1 @@
+This repository contains my approaches to modeling the physical systems described in this paper : https://proceedings.neurips.cc/paper_files/paper/2024/file/4f9a5acd91ac76569f2fe291b1f4772b-Paper-Datasets_and_Benchmarks_Track.pdf
